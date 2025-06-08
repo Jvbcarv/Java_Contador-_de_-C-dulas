@@ -26,7 +26,9 @@ Regras obrigatórias:<br>
 
 <br>
 <br>
-Exemplo de saída no Console:<br>
-![image](https://github.com/user-attachments/assets/34749cf6-311c-4db3-8ad9-ef79f8a4f660)
+
+Exemplo de saída no Console:
+![Captura de tela 2025-06-08 173421](https://github.com/user-attachments/assets/7cd755b4-b7b7-4767-b682-d20c8baa2438)
+
 
 
