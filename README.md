@@ -27,4 +27,6 @@ Regras obrigatórias:<br>
 <br>
 <br>
 Exemplo de saída no Console:<br>
-![image](https://github.com/user-attachments/assets/05483b6b-fbf5-4455-93b3-c65f897c5f6f)
+![image](https://github.com/user-attachments/assets/34749cf6-311c-4db3-8ad9-ef79f8a4f660)
+
+
